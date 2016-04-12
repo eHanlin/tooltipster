@@ -17,8 +17,8 @@
       "url": "http://www.opensource.org/licenses/mit-license.php"
     }
   ],
-  "dependencies" :{
-  	"jquery": "2.1.1"
+  "peerDependencies" :{
+  	"jquery": "^2.1.1"
   },
   "main": "js/jquery.tooltipster.js"
 }
